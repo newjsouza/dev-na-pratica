@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>NeuroPonto Podcast</title>
+    <link>https://newjsouza.github.io/neuroponto</link>
+    <description>IA generativa em português, automações práticas e ferramentas gratuitas — agora em áudio.</description>
+    <language>pt-br</language>
+    <itunes:author>NichoPulse AI Editorial</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://newjsouza.github.io/neuroponto/images/logo-podcast.jpg"/>
+    <atom:link href="https://newjsouza.github.io/neuroponto/podcast.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>O que Andrew Yang viu na conferência de IA de 2026?</title>
+      <description>Análise atual sobre What did Andrew Yang see at the AI conference? — tendência quente do momento</description>
+      <link>https://newjsouza.github.io/neuroponto/what-did-andrew-yang-see-at-the-ai-conference/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/what-did-andrew-yang-see-at-the-ai-conference.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/what-did-andrew-yang-see-at-the-ai-conference.mp3" length="2609373" type="audio/mpeg"/>
+      <itunes:duration>434</itunes:duration>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>A força do Gemini Omni está na manipulação de vídeo</title>
+      <description>Análise atual sobre The Strength of Gemini Omni is in video manipulation — tendência quente do momento</description>
+      <link>https://newjsouza.github.io/neuroponto/the-strength-of-gemini-omni-is-in-video-manipulation/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/the-strength-of-gemini-omni-is-in-video-manipulation.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/the-strength-of-gemini-omni-is-in-video-manipulation.mp3" length="1816509" type="audio/mpeg"/>
+      <itunes:duration>302</itunes:duration>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The American Rebellion Against AI Is Gaining Steam - Booed commencement speakers, blocked data centers, plummeting poll numbers: Fast-growing industry has a faster-growing crisis</title>
+      <description>Análise atual sobre The American Rebellion Against AI Is Gaining Steam - Booed commencement speakers, blocked data centers, plummeting poll numbers: Fast-growing industry has a faster-growing crisis — tendência quente do momento</description>
+      <link>https://newjsouza.github.io/neuroponto/the-american-rebellion-against-ai-is-gaining-steam---booed-c/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/the-american-rebellion-against-ai-is-gaining-steam---booed-c.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/the-american-rebellion-against-ai-is-gaining-steam---booed-c.mp3" length="3048861" type="audio/mpeg"/>
+      <itunes:duration>508</itunes:duration>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Microsoft revela que usar IA pode sair mais caro que contratar humanos</title>
+      <description>Análise atual sobre Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees — tendência quente do momento</description>
+      <link>https://newjsouza.github.io/neuroponto/microsoft-reports-are-exposing-ais-real-cost-problem-using-t/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/microsoft-reports-are-exposing-ais-real-cost-problem-using-t.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/microsoft-reports-are-exposing-ais-real-cost-problem-using-t.mp3" length="1882461" type="audio/mpeg"/>
+      <itunes:duration>313</itunes:duration>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Figure AI comemora 200 horas de operação de seus robôs humanoides no manuseio de pacotes</title>
+      <description>Análise atual sobre Figure AI celebra 200 horas (8 dias ~8 horas) de seus humanoides manuseando pacotes — tendência quente do momento</description>
+      <link>https://newjsouza.github.io/neuroponto/figure-ai-celebrates-200-hours-8-days-8-hours-of-their-human/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/figure-ai-celebrates-200-hours-8-days-8-hours-of-their-human.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/figure-ai-celebrates-200-hours-8-days-8-hours-of-their-human.mp3" length="3187245" type="audio/mpeg"/>
+      <itunes:duration>531</itunes:duration>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Meta inicia demissões em massa enquanto a IA pressiona o gigante da tecnologia</title>
+      <description>Análise atual sobre Mark Zuckerberg’s Meta kicks off major bloodbath with 8,000 layoffs (about 10% of its workforce) as AI roils tech giant — tendência quente do momento</description>
+      <link>https://newjsouza.github.io/neuroponto/mark-zuckerbergs-meta-kicks-off-major-bloodbath-with-8000-la/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/mark-zuckerbergs-meta-kicks-off-major-bloodbath-with-8000-la.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/mark-zuckerbergs-meta-kicks-off-major-bloodbath-with-8000-la.mp3" length="3110637" type="audio/mpeg"/>
+      <itunes:duration>518</itunes:duration>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>A Morte das Vagas de Entrada: 43% dos CEOs planejam cortar cargos juniores</title>
+      <description>Análise atual sobre The Death of Entry-Level Jobs: 43% of CEOs plan to slash junior roles over the next two years, shifting hiring to older, mid-level workers as AI takes over routine tasks, creating a catastrophic bottleneck for the future workforce.</description>
+      <link>https://newjsouza.github.io/neuroponto/the-death-of-entry-level-jobs-43-of-ceos-plan-to-slash-junio/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/the-death-of-entry-level-jobs-43-of-ceos-plan-to-slash-junio.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/the-death-of-entry-level-jobs-43-of-ceos-plan-to-slash-junio.mp3" length="2585901" type="audio/mpeg"/>
+      <itunes:duration>430</itunes:duration>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>IA não está gerando o retorno que empresas esperam — e as demissões estão piorando tudo</title>
+      <description>Análise atual sobre AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds — tendência quente do momento</description>
+      <link>https://newjsouza.github.io/neuroponto/ai-isnt-paying-off-in-the-way-companies-think-layoffs-driven/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/ai-isnt-paying-off-in-the-way-companies-think-layoffs-driven.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/ai-isnt-paying-off-in-the-way-companies-think-layoffs-driven.mp3" length="2544861" type="audio/mpeg"/>
+      <itunes:duration>424</itunes:duration>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Por que os EUA estão vencendo a corrida da IA — e por que a comercialização é o que importa</title>
+      <description>Os EUA lideram a corrida da IA onde realmente importa: a comercialização. Entenda o impacto para o Brasil e como se preparar.</description>
+      <link>https://newjsouza.github.io/neuroponto/the-us-is-winning-the-ai-race-where-it-matters-most-commerc/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/the-us-is-winning-the-ai-race-where-it-matters-most-commerc.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/the-us-is-winning-the-ai-race-where-it-matters-most-commerc.mp3" length="4790253" type="audio/mpeg"/>
+      <itunes:duration>798</itunes:duration>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tradução automática com IA: ferramentas gratuitas que realmente funcionam</title>
+      <description>Comparativo de ferramentas gratuitas de tradução automática com IA: DeepL, Google Translate, ChatGPT e alternativas para brasileiros.</description>
+      <link>https://newjsouza.github.io/neuroponto/traducao-automatica-ia-ferramentas-gratis/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/traducao-automatica-ia-ferramentas-gratis.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/traducao-automatica-ia-ferramentas-gratis.mp3" length="4989405" type="audio/mpeg"/>
+      <itunes:duration>831</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Privacidade e segurança ao usar IA: o que você precisa saber antes de colar dados</title>
+      <description>Guia essencial de privacidade digital ao usar ferramentas de IA: quais dados compartilhar, configurações de segurança e riscos reais.</description>
+      <link>https://newjsouza.github.io/neuroponto/privacidade-seguranca-ia-dados/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/privacidade-seguranca-ia-dados.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/privacidade-seguranca-ia-dados.mp3" length="4588221" type="audio/mpeg"/>
+      <itunes:duration>764</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Limitações da IA generativa em 2026: o que ela ainda não faz bem</title>
+      <description>Análise realista das limitações atuais da IA generativa: raciocínio matemático, contexto longo, fatos recentes e viés cultural brasileiro.</description>
+      <link>https://newjsouza.github.io/neuroponto/limitacoes-ia-generativa-2026/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/limitacoes-ia-generativa-2026.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/limitacoes-ia-generativa-2026.mp3" length="4809837" type="audio/mpeg"/>
+      <itunes:duration>801</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>IA para pequenas empresas: automações gratuitas que funcionam no Brasil</title>
+      <description>Guia prático de automação com IA para pequenos negócios brasileiros: chatbots, atendimento, gestão financeira e marketing sem gastar nada.</description>
+      <link>https://newjsouza.github.io/neuroponto/ia-pequenas-empresas-automacoes-gratis/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/ia-pequenas-empresas-automacoes-gratis.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/ia-pequenas-empresas-automacoes-gratis.mp3" length="4381725" type="audio/mpeg"/>
+      <itunes:duration>730</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Como usar IA para estudar: resumos automáticos, flashcards e revisão programada</title>
+      <description>Aprenda a usar IA generativa para criar resumos automáticos, flashcards e sistemas de revisão espaçada para concursos e provas.</description>
+      <link>https://newjsouza.github.io/neuroponto/ia-para-estudar-resumos-flashcards/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/ia-para-estudar-resumos-flashcards.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/ia-para-estudar-resumos-flashcards.mp3" length="4659645" type="audio/mpeg"/>
+      <itunes:duration>776</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Como usar IA para organizar tarefas e aumentar a produtividade pessoal</title>
+      <description>Métodos práticos para usar IA como assistente pessoal de produtividade: listas inteligentes, priorização automática e lembretes contextuais.</description>
+      <link>https://newjsouza.github.io/neuroponto/ia-organizar-tarefas-produtividade/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/ia-organizar-tarefas-produtividade.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/ia-organizar-tarefas-produtividade.mp3" length="4663533" type="audio/mpeg"/>
+      <itunes:duration>777</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>IA para criar currículos e cartas de apresentação: prompts que funcionam</title>
+      <description>Use IA generativa para criar currículos profissionais e cartas de apresentação personalizadas com prompts testados para o mercado brasileiro.</description>
+      <link>https://newjsouza.github.io/neuroponto/ia-curriculo-carta-apresentacao-prompts/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/ia-curriculo-carta-apresentacao-prompts.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/ia-curriculo-carta-apresentacao-prompts.mp3" length="4436301" type="audio/mpeg"/>
+      <itunes:duration>739</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>IA generativa no atendimento ao cliente: bots que não irritam o usuário</title>
+      <description>Como implementar chatbots com IA generativa que realmente resolvem problemas do cliente sem frustração, com exemplos práticos do mercado brasileiro.</description>
+      <link>https://newjsouza.github.io/neuroponto/ia-atendimento-cliente-bots-eficientes/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/ia-atendimento-cliente-bots-eficientes.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/ia-atendimento-cliente-bots-eficientes.mp3" length="3828909" type="audio/mpeg"/>
+      <itunes:duration>638</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ferramentas de IA gratuitas para criar imagens, vídeos e apresentações</title>
+      <description>Lista atualizada de ferramentas gratuitas de IA para criação visual no Brasil: Canva AI, Leonardo AI, Clipchamp e alternativas.</description>
+      <link>https://newjsouza.github.io/neuroponto/ferramentas-ia-gratis-imagens-videos/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/ferramentas-ia-gratis-imagens-videos.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/ferramentas-ia-gratis-imagens-videos.mp3" length="5716893" type="audio/mpeg"/>
+      <itunes:duration>952</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Como escrever e-mails profissionais com ajuda de IA (com prompts testados)</title>
+      <description>Aprenda a usar IA para redigir e-mails profissionais em português rapidamente, com prompts testados e exemplos para diferentes situações.</description>
+      <link>https://newjsouza.github.io/neuroponto/escrever-emails-profissionais-ia/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/escrever-emails-profissionais-ia.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/escrever-emails-profissionais-ia.mp3" length="3618957" type="audio/mpeg"/>
+      <itunes:duration>603</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Como ensinar crianças a usar IA com segurança e criatividade</title>
+      <description>Guia para pais e educadores sobre como apresentar IA generativa para crianças de forma segura, educativa e criativa.</description>
+      <link>https://newjsouza.github.io/neuroponto/ensinar-criancas-usar-ia-seguranca/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/ensinar-criancas-usar-ia-seguranca.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/ensinar-criancas-usar-ia-seguranca.mp3" length="4941453" type="audio/mpeg"/>
+      <itunes:duration>823</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ChatGPT está revolucionando a criação de livros didáticos: o que isso significa para alunos e professores</title>
+      <description>ChatGPT agora está sendo usado para criar conteúdo de livros didáticos — análise do impacto na educação, qualidade do conteúdo gerado por IA e implicações para o mercado editorial brasileiro.</description>
+      <link>https://newjsouza.github.io/neuroponto/chatgpt-revolucionando-livros-didaticos/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/chatgpt-revolucionando-livros-didaticos.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/chatgpt-revolucionando-livros-didaticos.mp3" length="4689597" type="audio/mpeg"/>
+      <itunes:duration>781</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ChatGPT está criando conteúdo para livros didáticos? Como a IA está revolucionando a produção de materiais educacionais</title>
+      <description>Artigo baseado na tendência mais quente de IA em português: ChatGPT is now creating content for textbooks.</description>
+      <link>https://newjsouza.github.io/neuroponto/chatgpt-is-now-creating-content-for-textbooks/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/chatgpt-is-now-creating-content-for-textbooks.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/chatgpt-is-now-creating-content-for-textbooks.mp3" length="4010061" type="audio/mpeg"/>
+      <itunes:duration>668</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ChatGPT vs DeepSeek vs Gemini: qual IA escolher em 2026?</title>
+      <description>Comparativo atualizado entre ChatGPT, DeepSeek e Gemini para usuários brasileiros: custo, qualidade em português, funcionalidades e limitações.</description>
+      <link>https://newjsouza.github.io/neuroponto/chatgpt-deepseek-gemini-comparativo-2026/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/chatgpt-deepseek-gemini-comparativo-2026.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/chatgpt-deepseek-gemini-comparativo-2026.mp3" length="5270061" type="audio/mpeg"/>
+      <itunes:duration>878</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Automação residencial com IA: devices baratos que funcionam mesmo</title>
+      <description>Guia prático de automação residencial com IA usando dispositivos acessíveis no Brasil: Alexa, Google Home, ESP32 e sensores.</description>
+      <link>https://newjsouza.github.io/neuroponto/automacao-residencial-ia-barata/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/automacao-residencial-ia-barata.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/automacao-residencial-ia-barata.mp3" length="3736173" type="audio/mpeg"/>
+      <itunes:duration>622</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>O que são alucinações em IA e como evitar respostas inventadas</title>
+      <description>Entenda por que IAs alucinam, exemplos reais e estratégias práticas para detectar e evitar informações inventadas.</description>
+      <link>https://newjsouza.github.io/neuroponto/alucinacoes-ia-como-evitar/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/alucinacoes-ia-como-evitar.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/alucinacoes-ia-como-evitar.mp3" length="4288845" type="audio/mpeg"/>
+      <itunes:duration>714</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Os 10 melhores prompts para ChatGPT em português para 2026</title>
+      <description>Lista curada dos prompts mais úteis para ChatGPT em português, organizados por categoria: escrita, código, análise e criatividade.</description>
+      <link>https://newjsouza.github.io/neuroponto/10-melhores-prompts-chatgpt-portugues/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/10-melhores-prompts-chatgpt-portugues.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/10-melhores-prompts-chatgpt-portugues.mp3" length="5496429" type="audio/mpeg"/>
+      <itunes:duration>916</itunes:duration>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Riscos reais da IA generativa: privacidade, direitos autorais, erros e como se proteger (guia 2026)</title>
+      <description>Entenda riscos reais da IA generativa e como usar essas ferramentas com segurança, privacidade e senso crítico.</description>
+      <link>https://newjsouza.github.io/neuroponto/riscos-da-ia-generativa-como-se-proteger/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/riscos-da-ia-generativa-como-se-proteger.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/riscos-da-ia-generativa-como-se-proteger.mp3" length="3564525" type="audio/mpeg"/>
+      <itunes:duration>594</itunes:duration>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ferramentas gratuitas de IA para pequenos negócios: automações que economizam tempo</title>
+      <description>Lista prática de ferramentas gratuitas de IA para pequenos negócios economizarem tempo com automações simples.</description>
+      <link>https://newjsouza.github.io/neuroponto/ferramentas-gratuitas-ia-pequenos-negocios/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/ferramentas-gratuitas-ia-pequenos-negocios.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/ferramentas-gratuitas-ia-pequenos-negocios.mp3" length="4113453" type="audio/mpeg"/>
+      <itunes:duration>685</itunes:duration>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Como usar IA generativa no dia a dia sem cair em hype: guia prático para brasileiros</title>
+      <description>Guia prático para usar IA generativa em tarefas reais, sem hype, com exemplos brasileiros e ferramentas acessíveis.</description>
+      <link>https://newjsouza.github.io/neuroponto/como-usar-ia-generativa-no-dia-a-dia/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/como-usar-ia-generativa-no-dia-a-dia.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/como-usar-ia-generativa-no-dia-a-dia.mp3" length="3955485" type="audio/mpeg"/>
+      <itunes:duration>659</itunes:duration>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Como criar prompts melhores: estrutura simples para obter respostas úteis da IA</title>
+      <description>Método simples para escrever prompts melhores e obter respostas mais úteis de modelos de IA.</description>
+      <link>https://newjsouza.github.io/neuroponto/como-criar-prompts-melhores/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/como-criar-prompts-melhores.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/como-criar-prompts-melhores.mp3" length="3451629" type="audio/mpeg"/>
+      <itunes:duration>575</itunes:duration>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ChatGPT vs Claude vs Gemini: qual usar no trabalho, estudo e automação em 2026?</title>
+      <description>Comparativo prático entre ChatGPT, Claude e Gemini, com casos de uso para trabalho, estudo e automação.</description>
+      <link>https://newjsouza.github.io/neuroponto/chatgpt-claude-gemini-diferencas-praticas/</link>
+      <guid isPermaLink="true">https://newjsouza.github.io/neuroponto/audio/chatgpt-claude-gemini-diferencas-praticas.mp3</guid>
+      <enclosure url="https://newjsouza.github.io/neuroponto/audio/chatgpt-claude-gemini-diferencas-praticas.mp3" length="5583117" type="audio/mpeg"/>
+      <itunes:duration>930</itunes:duration>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

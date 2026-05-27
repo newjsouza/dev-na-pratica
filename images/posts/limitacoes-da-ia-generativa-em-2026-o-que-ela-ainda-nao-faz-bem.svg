@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f3ff"/>
+  <circle cx="1040" cy="100" r="180" fill="#7c3aed" opacity="0.12"/>
+  <circle cx="130" cy="560" r="220" fill="#7c3aed" opacity="0.10"/>
+  <rect x="58" y="58" width="1084" height="514" rx="34" fill="#ffffff" opacity="0.92"/>
+  <text x="80" y="130" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#7c3aed">NeuroPonto</text>
+  <text x="80" y="178" font-family="Arial, sans-serif" font-size="24" fill="#1f1235" opacity="0.72">IA prática em português</text>
+  <text font-family="Arial, sans-serif" font-size="46" font-weight="800" fill="#1f1235">
+    <tspan x="80" y="250">Limitações da IA generativa em 2026: o</tspan>
+<tspan x="80" y="308">que ela ainda não faz bem</tspan>
+  </text>
+  <rect x="80" y="510" width="320" height="12" rx="6" fill="#7c3aed" opacity="0.9"/>
+</svg>
